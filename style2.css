@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding:0;
+   box-sizing: border-box;
+}
+
+.child{
+   color: white;
+   width: 400px;
+   padding: 10px 20px;
+   margin-top: 15px;
+   margin-left: 15px;
+   border: 1px solid white;
+   text-align: center;
+
+}
+
+.container{
+   background-color: black;
+   width: 450px;
+   padding: 10px 20px;
+   margin: 20px 10px;
+}
+
+.orange{
+   background: linear-gradient(orange white);
+}
+
+.green{
+   background-color: green;
+}
+
+.purple{
+   background-color: purple;
+}
+
+.blue{
+   background-color: blue;
+}

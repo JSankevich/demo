@@ -1,0 +1,21 @@
+*{
+   margin: 0;
+   padding:0;
+   box-sizing: border-box;
+}
+
+.red{
+   width: 30px;
+   height:30px;
+   border: 2px solid red;
+   margin: 20px;
+
+}
+
+.green{
+   width: 200px;
+   border: 2px solid green;
+   padding: 10px;
+   margin-left: 20px;
+   text-align: justify;
+}
